@@ -34,7 +34,7 @@ var documentConfig =
 //  publishDate: "2024-04-16",
 //  previousPublishDate: "2024-03-01",
 //  previousMaturity: "vv",
-  edDraftURI: "https://geonovum.github.io/t4r-technical-framework/",
+  edDraftURI: "https://geonovum.github.io/T4R/",
   authors: [
         {
             name: "Niels Hoffmann (Geonovum)"

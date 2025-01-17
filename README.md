@@ -1,2 +1,5 @@
 # T4R
-Twins4Resilience
+
+This repository contains the artefacts that are developed for the Twins4Resilience project
+
+[respec](https://geonovum.github.io/T4R/)
