@@ -16,9 +16,6 @@
 
 This document presents __A1.3 Framework Technical Design__
 
-## LAB-STUDIO-ARENA-AGORA MODEL
-
-
 
 
 ## Previous work
