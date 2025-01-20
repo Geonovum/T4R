@@ -2,9 +2,20 @@
 
 ## Scope and approach 
 
+This report is building from existing work. Most notable the 'Policy processes and building blocks for Digital Twins' [[NLDT_PP_BB]] report.
+
+Based on the knowledge and insights from this earlier work we propose an initial structure with relevant questions. 
+This initial framework is then discussed with the various stakeholders in workshops. Feedback is incorporated in the final result.
+
 ## Timeline of activities 
 
+- jan: initial scoping.
+- feb/mar: workshops and feedback gathering
+- apr/may: finalize report
+
 ## A joint structure for the Frameworks’ findings 
+
+In collaboration with the other frameworks a joint structure was developed as outlined below.
 
 ### THE LAB-STUDIO-ARENA-AGORA MODEL
 
@@ -30,4 +41,11 @@ The Arena is the place of implementation and upscaling. This is where stakeholde
 
 ### THE IMPORTANCE OF CRITICAL QUESTIONS
 
+The framework aims to bring together different stakeholders as to maximize the viewpoints to be addressed. 
+Explicitly bringing together stakeholders with a different level of maturity on the relevant subject helps to gain insight into which questions proved to be quintessential, and which questions proved to be trivial.
+
 ### THE IMPORTANCE OF LESSONS LEARNED
+
+The framework also aims to address 'lessons learned' from early adopters, so organisations embarking on a journey to implement LDT's can learn from the early adopters and hopefully implement those lessons more easily.
+
+Following from the critical questions some best practices are also documented in the following chapter.
