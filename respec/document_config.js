@@ -54,7 +54,7 @@ var documentConfig =
   
     github: "geonovum/T4R",
     issueBase: "https://github.com/Geonovum/T4R/issues",
-    maxTocLevel: 3,
+    maxTocLevel: 2,
     
     labelColor: {
         def: "#045D9F",

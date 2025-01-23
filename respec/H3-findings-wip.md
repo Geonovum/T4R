@@ -67,6 +67,11 @@ bewerken
 ----
 experimenteer omgeving opzetten, met juiste 'hardware'/infrastructuur
 
+===
+succesfactoren: begrijpbaar, concreet genoeg, voldoende afgebakend
+- in stapjes/roadmap kunnen uitrollen
+- goed gedefinieerde (open) interfaces
+- beleidsregels 'codeerbaar'
 
 ---
 
@@ -95,6 +100,16 @@ organisatie technisch klaar maken om data te delen (technnische en organisatie r
 
 file share vs block storage
 
+===>
+best practices: DCAT, OGC-API processes, API Records, Sparql
+
+Gebruik van een Interactieve 3D omgeving stimuleert de adoptie en 
+gebruikservaring van een systemen (invoegen bij vraag 1)
+
+oplossingen van leveranciers moeten geen monolieten zijn
+oplossingen moet ontkoppelbaar zijn.
+of maak bewust de keuze voor een 'totaaloplossing'
+
 ---
 
 ## Agora questions
@@ -114,5 +129,10 @@ audit en control ingeregeld hebben
 
 it systemen moet je governance ondersteunen, (je governance moet niet een 'handmatig' proces zijn)
 CI/CD ingericht 'business as usual'
+
+===
+
+Valt datagovernance (data stewards e.d.) inderdaad onder het governance framework 
+(dubbel checken dat het daar geaddresseerd wordt)
 
 ---
