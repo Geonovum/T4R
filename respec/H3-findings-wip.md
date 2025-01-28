@@ -136,3 +136,59 @@ Valt datagovernance (data stewards e.d.) inderdaad onder het governance framewor
 (dubbel checken dat het daar geaddresseerd wordt)
 
 ---
+============
+
+overleg a'dam/utrecht
+
+Maturity levels inbrengen
+
+Coordinaat systeem is een lesson learned
+
+'how to start'
+
+het framework moet als input gebruikt worden in
+pilot actions. daar moeten starter kits uitkomen
+
+Idee Bart: Starter kit per kwadrant
+
+3.1.1 - eerst open licenties, dan open source
+
+NL Voorbeeld van PTOLU
+- onderscheid 'Best Practice' vs 'Mandatory'
+
+3.1.2 - use cases, maar ook stakeholders
+bv beleidsmakers
+
+3.1.3 - toelichten, dat 'web os' gaat niet alleen over webviewers, maar vooral over netwerkend samenwerken
+
+lab: ook iets vastleggen over hoe je tot resultaten komt
+-> Bart, wel zwaar voor Lab fase. wel belangrijk
+-> lessons learned van lab ook goed vastleggen
+
+3.1.5 - resultaat: kleine LDT oplossingen, maar ook technische deliverables
+
+3.2 - capabilities 
+5 groepen van capabilities beter annoteren
+capabilties noemen en duiden per vraag
+excel met vragen/questionaire van deelnemers verwerken
+
+3.3 - maturity levels proberen in te werken
+
+3.3.4 - beter toelichten, misschien ook refrasen
+DT's moeten optelbaar kunnen zijn.
+-> dat betekent dat KPI's geuniformeerd moeten worden
+Interoperabiliteit op 'datastromen'
+Common vocabularies
+
+3.4
+Verandermanagement?
+-> positioneren in CMDB
+waar is een organisatie aan toe/mee bezig
+
+4 
+visualisatie plaatje, actuele versie gebruiken
+
+---
+maturity level
+starter kit
+
