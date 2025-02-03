@@ -81,6 +81,19 @@ __Best practices__
 
 - Understand your stakeholder needs. The experience needs to be useful for the target audience.
 
+### How do we manage the complexity of a solution and make sure we can 'mix and match' different building blocks?
+
+__Best practices__
+
+- The architecture we promote is composed of different building blocks:
+    - Data
+    - Processing
+    - Visualisation
+    - Foundation
+
+By splitting the system in different building blocks (which are based on standards and interoperable interfaces) we make sure the system is flexible. We can use for example different visualisation solutions with a processing backend, and we can upgrade certain parts without needing to upgrade the complete system.
+
+
 ---
 
 ## Arena questions
