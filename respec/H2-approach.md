@@ -48,4 +48,9 @@ Explicitly bringing together stakeholders with a different level of maturity on 
 
 The framework also aims to address 'lessons learned' from early adopters, so organisations embarking on a journey to implement LDT's can learn from the early adopters and hopefully implement those lessons more easily.
 
-Following from the critical questions some best practices are also documented in the following chapter.
+Following from the critical questions some best practices and lessons learned are also documented in the following chapter.
+
+### Maturity levels
+
+It is also important to note that an LDT solution can grow in maturity.
+While an initial solution can be small and limited in scope and functionality, it might grow over time to a more mature system.

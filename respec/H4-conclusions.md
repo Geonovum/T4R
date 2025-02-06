@@ -1,6 +1,6 @@
 # Conclusions, recommendations, next steps
 
-<img src="./respec/media/nldt-3hoek.png" width="900">
+<img src="./respec/media/Architectuur driehoek EngelsGeen achtergrond.png" width="900">
 
 Visualisation of the building block architecture.
 
