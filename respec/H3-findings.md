@@ -64,7 +64,7 @@ __Lessons learned__
 
 The studio situation focusses on the capabilities. Which building blocks do we need to define.
 
-<img src="./respec/media/capabilities.png" width="900">
+<img src="./respec/media/capabilities.png" alt="Main capabilities mapped to the Digital Twin Capabilities Periodic Table" width="900">
 
 Main capabilities mapped to the Digital Twin Capabilities Periodic Table
 
