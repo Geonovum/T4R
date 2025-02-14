@@ -33,6 +33,8 @@ __Best practices__
 
     Even from a technical framework viewpoint, a socio-technical approach should be expected. Even when a particular solution is driven from a very technical viewpoint, it is still relevant to describe the business value of such a technical component. For example, implementing 'row level access control' in the datalake might be a very technical building block, it still is important to describe this feature in terms of business value.
 
+- Interface / implementatie
+
 __Lessons learned__
 
 - Having 'amabassadors' or 'champions' in your organisation that promote solutions and can enthousiastically demonstrate the use and adoption of LDT's is a huge benefit and success factor.
