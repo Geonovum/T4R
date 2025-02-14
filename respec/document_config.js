@@ -80,6 +80,12 @@ var documentConfig =
             publisher: "Geonovum"
         },
 
+        LDT: {
+          title: "Public report on the LDT toolbox detailed specifications requirements – D05.02",
+          href: "https://data.europa.eu/doi/10.2759/384198",
+          publisher: "European Commission",
+          },
+
         NLSBB: {
             title: "NL-SBB - Standaard voor het beschrijven van begrippen",
             href: "https://docs.geostandaarden.nl/nl-sbb/def-st-nl-sbb-20241010/",
