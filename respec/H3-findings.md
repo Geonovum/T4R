@@ -221,6 +221,10 @@ Be aware that innovation is unpredictable a try to built 'just enough'.
 
 The Agora situation is focussing on the implementation and deployment of LDT's in production. Focussing on wider use, stability, trustworhyness etc.
 
+### Link naar excel, technische kolom in relatie tot Guardrails
+
+todo
+
 ### How do I want my deployments to be rolled out to users?
 
 __Best practices__
