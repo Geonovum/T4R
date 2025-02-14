@@ -51,7 +51,6 @@ var documentConfig =
             name: "Bart de Lathouwer (Geonovum)"
         }
   ],
-  
     github: "geonovum/T4R",
     issueBase: "https://github.com/Geonovum/T4R/issues",
     maxTocLevel: 2,
