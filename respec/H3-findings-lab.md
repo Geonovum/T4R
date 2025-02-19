@@ -31,7 +31,9 @@ __Best practices__
 
     Even from a technical framework viewpoint, a socio-technical approach should be expected. Even when a particular solution is driven from a very technical viewpoint, it is still relevant to describe the business value of such a technical component. For example, implementing 'row level access control' in the datalake might be a very technical building block, it still is important to describe this feature in terms of business value.
 
-- Interface / implementatie
+- Focus on Interfaces
+
+    By defining clear interfaces between components, different parts of a solution can more easily be swapped and re-used.
 
 __Lessons learned__
 
@@ -48,16 +50,17 @@ __Best practices__
 By this we mean that web technology is the fundamental approach to design systems, not only for the visualisation part, but also all other parts of the system, like storage and processing.
 
 __Lessons Learned__
-    Modern architectures operate on a web-scale and can work in a distributed environment, technologies like WebAssembly and memory optimized architectures make scaling systems a lot more feasible. 
+
+- Modern architectures operate on a web-scale and can work in a distributed environment, technologies like WebAssembly and memory optimized architectures make scaling systems a lot more feasible. 
 
 
 ### How do we create insights that are interpretable and well balanced?
 
-Make sure ethics and fair data practices are adopted within the systems. All to often an ethics framework is implemented like a 'paper excercise'. Understanding challenges from an Ethics and FAIR viewpoint and searching for implementations of those concerns in technical systems can really add value. For example you could implement a workflow for an Ethics review. Or support a planning meeting with a digital twin to ensure everyone is operating on a level playing field.
+Make sure ethics and fair data practices are adopted within the systems. All too often an ethics framework is implemented like a 'paper excercise'. Understand challenges from an Ethics and FAIR viewpoint and implement them in technical systems can really add value. For example you could implement a workflow for an Ethics review.
 
 __Best practices__
 
-- documentation and clear definitions are key. Design systems in such a way that provenance is available and results are transparant. Be wary of 'black box' solutions where you do not have a clue how results are calculated.
+- Documentation and clear definitions are key. Design systems in such a way that provenance is available and results are transparant. Be wary of 'black box' solutions where you do not have a clue how results are calculated.
 
 ### How can we create results in the short term, while staying relevant towards the future?
 
