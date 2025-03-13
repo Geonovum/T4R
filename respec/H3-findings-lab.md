@@ -70,8 +70,8 @@ __Best practices__
 
 __Lessons learned__
 
-- Having 'amabassadors' or 'champions' in your organisation that promote solutions and can enthousiastically demonstrate the use and adoption of LDT's is a huge benefit and success factor.
-
+- People in the organisation that can bridge the gap between policy world and the technical world of an LDT are invaluable. 
+Time and time again we see that these two worlds speak different languages. It takes time and dedicated effort to bring those worlds together. The same people can stimulate re-use of solutions because they have the skill to abstract details away and see how solutions fit together. Without this skill chances are multiple systems are deployed for essentially the same question.
 
 ### How do we make sure our solution is interoperable with other organisations?
 
