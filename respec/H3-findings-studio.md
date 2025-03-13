@@ -77,4 +77,6 @@ __Lessons Learned__
 
 - An area that needs further research revolves around quantifiable key performance indicators that are comparable accross different organisations. 
 
+What we mean by this is the way a policy guideline is 'digitized' in a way that you can run a standardized analysis for the question. An example is the implementation of the '3-30-300 rule', this is a rule about the amount of green in the city. 3-30-300 stands for: every citizen should be able to see 3 trees, 30% of the area should be shaded and there should be a (small) park within 300 meters. Which datasets do we use for this analysis. How do we calculate the sightlines, how do we calculate the shadow percentages.
+
 ---
