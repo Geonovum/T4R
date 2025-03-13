@@ -49,11 +49,12 @@ __Best practices__
 
 ### Which capabilities do we need to make sure we can trust the insights we get from our data sources?
 
-A Digital Twin stands (or falls) with the accurate representation (according to agreements and rules) of reality. All data and information that feed the Digital Twins have been tested against agreed quality requirements. Errors cannot be avoided, and user expectations are set accordingly. Trust is also gained through formal agreements and frameworks. For example, the user must make himself known in the system (Identity & Access Management), confidential data is exchanged (data spaces), is logged in and APIs are managed (via gateway functionality).
+A Digital Twin stands (or falls) with the accurate representation (according to agreements and rules) of reality. All data and information that feed the Digital Twins have been tested against agreed quality requirements. Errors cannot be avoided, and user expectations are set accordingly. Trust is also gained through formal agreements and frameworks. For example, the user must make himself known in the system (Identity & Access Management), is logged in and APIs are managed (via gateway functionality). Confidential data is exchanged by means of dataspace standards, where policy and data-use agreements are in place before data exchange.
 
 __Best practices__
 
 - Reach out to policy makers, make sure the results from a DT a relateable to the policies they are supposed to make understandable.
+- Put extra effort in the understandibility of the results, use UX (User eXperience) specialists to make sure the system conveys the intended message.
 
 ### How do we communicate our insights to our stakeholders?
 
