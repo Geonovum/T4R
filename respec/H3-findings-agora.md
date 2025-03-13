@@ -2,13 +2,13 @@
 
 The Agora situation is focussing on the implementation and deployment of LDT's in production. Focussing on wider use, stability, trustworhyness etc.
 
-### How appropriate are the systems we deploy to the size and maturity of our organisation?
+### How appropriate are the systems we deploy to the size and goals of our organisation?
 
-Not all organisations operate on the same scale or maturity level. Work with maturity models to determine the desired maturity level for the organisation. You might not want to always strive to the highest maturity level. 
+Not all organisations operate on the same scale or have the same goals. Make sure to implement systems that are fit for purpose according to the goals of the organisation.
 
 __Best practices__
 
-- Depending on the desired maturity levels, ambition and strategy of the organisation, determine which type of environment suits your organisation.
+- Depending on the desired ambition and strategy of the organisation, determine which type of environment suits your organisation.
 
     - Cloud platform like AWS or Azure might be a good fit for some organisations, but won't be a solution for others. Containerized deployment on other infrastructure platform can be a viable alternative.
     - Depending on your organisational strategy you might lean more to the use of open source products or make a choice for SaaS offerings. Make sure these technical choices align with the organisational strategy.
@@ -62,8 +62,10 @@ __Lessons Learned__
 - In Cloud environments this is often the realm of cloud engineers. A Cloud environment is typically structured within 'subscriptions' or 'accounts'. For observability pay attention to this structure and work with the cloud team to make sure the way this is organised is aligned with organisational responsibilities.
 
 
-### How do I make sure the maturity of my LDT is aligned with the maturity of my organisation?
+### How do I make sure the type of my LDT is aligned with the goals of my organisation?
 
-For an organisation to be able to benefit from the results from a mature LDT solution the organisation needs to be mature in digital change management as well. To be able to keep track of all the different components of a complex LDT system a configuration management system needs to be in place.
+For an organisation to be able to benefit from the results from a LDT solution with a certain complexity level the organisation needs to be able to handle that complexity level in the way of digital change management as well. To be able to keep track of all the different components of a complex LDT system a configuration management system needs to be in place.
+
+
 
 ---
