@@ -18,7 +18,7 @@ While in 'brainstorming mode' it is very likely the envisioned solution is ever 
 
 Make sure ethics and fair data practices are adopted within the systems. All too often an ethics framework is implemented like a 'paper excercise'. Understand challenges from an Ethics and FAIR viewpoint and implement them in technical systems can really add value. For example you could implement a workflow for an Ethics review.
 
-__Best practices__
+__Lessons learned__
 
 - Documentation and clear definitions are key. Design systems in such a way that provenance is available and results are transparant. Be wary of 'black box' solutions where you do not have a clue how results are calculated.
 
