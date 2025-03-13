@@ -2,6 +2,39 @@
 
 The lab situation starts with the basic, fundamental questions. Why do I want a LDT and to which guardrails and principles should the LDT adhere?
 
+### How do we make sure that the LDT system we envision is a fit for the organisation?
+
+Even though we start in a lab situation, we know already that the envisioned solution should fit into the broader context of the organisation and the ecosystem the organisation is operating in. So before we even start exploring we should get an overview of the prerequisites and requirements from the organisation.
+
+__Best practices__
+
+A good way to make sure the technical system is fit for purpose is to work from use cases. What is a manageable, concrete challenge the organisation is facing and how could a LDT provide a solution for it?
+
+__Lessons learned__
+
+While in 'brainstorming mode' it is very likely the envisioned solution is ever growing in scope. This seems great in theory, in practice an increasing scope can also grow a project to such a scope that it becomes unmanageable. Keep trying to find the balance between a valuable solution for the organisation while keeping it small enough to stay concrete and manageable.
+
+### How do we create insights that are interpretable and well balanced?
+
+Make sure ethics and fair data practices are adopted within the systems. All too often an ethics framework is implemented like a 'paper excercise'. Understand challenges from an Ethics and FAIR viewpoint and implement them in technical systems can really add value. For example you could implement a workflow for an Ethics review.
+
+__Best practices__
+
+- Documentation and clear definitions are key. Design systems in such a way that provenance is available and results are transparant. Be wary of 'black box' solutions where you do not have a clue how results are calculated.
+
+### How can we create results in the short term, while staying relevant towards the future?
+
+Local, as well as regional government organisations have to deal with a lot of interconnected challenges. All too often a solution proposed for a particular challenge keeps increasing in scope until the proposed solution is too big to address, leading to 'apathy'. Be aware of this pattern and make sure to manage expectations. Work towards a bigger goal but do try to keep increments small and relevant.
+
+__Best practices__
+
+- Work with the best that is available today (affordable, reliable, scalable & resilient).
+    A business scope of a project is not the only scope to manage, from a technical point of view it is also tempting to wait for the next new feature or implement promising, but not proven technology too early. Be aware of this challenge and manage this risk explicitly.
+
+__Lessons learned__
+
+- Pay attention to agile development practices, deliverables should add value. But also take 'technical debt' into account. Be aware that system components need maintenance as well and reserve development time for a solid foundation.
+
 
 ### How do we avoid lock-ins?
 
@@ -54,25 +87,5 @@ __Lessons Learned__
 - Modern architectures operate on a web-scale and can work in a distributed environment, technologies like WebAssembly and memory optimized architectures make scaling systems a lot more feasible. 
 
 
-### How do we create insights that are interpretable and well balanced?
-
-Make sure ethics and fair data practices are adopted within the systems. All too often an ethics framework is implemented like a 'paper excercise'. Understand challenges from an Ethics and FAIR viewpoint and implement them in technical systems can really add value. For example you could implement a workflow for an Ethics review.
-
-__Best practices__
-
-- Documentation and clear definitions are key. Design systems in such a way that provenance is available and results are transparant. Be wary of 'black box' solutions where you do not have a clue how results are calculated.
-
-### How can we create results in the short term, while staying relevant towards the future?
-
-Local, as well as regional government organisations have to deal with a lot of interconnected challenges. All too often a solution proposed for a particular challenge keeps increasing in scope until the proposed solution is too big to address, leading to 'apathy'. Be aware of this pattern and make sure to manage expectations. Work towards a bigger goal but do try to keep increments small and relevant.
-
-__Best practices__
-
-- Work with the best that is available today (affordable, reliable, scalable & resilient).
-    A business scope of a project is not the only scope to manage, from a technical point of view it is also tempting to wait for the next new feature or implement promising, but not proven technology too early. Be aware of this challenge and manage this risk explicitly.
-
-__Lessons learned__
-
-- Pay attention to agile development practices, deliverables should add value. But also take 'technical debt' into account. Be aware that system components need maintenance as well and reserve development time for a solid foundation.
 
 ---
