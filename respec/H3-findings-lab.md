@@ -86,6 +86,18 @@ __Lessons Learned__
 
 - Modern architectures operate on a web-scale and can work in a distributed environment, technologies like WebAssembly and memory optimized architectures make scaling systems a lot more feasible. 
 
+- By adopting a distributed architecture composed of building blocks we ensure interoperability.
+
+In the following picture four basic 'building blocks' are visualised. The building blocks together comprise a LDT solution. Between the building blocks we define well defined interfaces based on open standards.
+
+<img src="./respec/media/Architectuur driehoek EngelsGeen achtergrond.png" alt="Visualisation of the building block architecture." width="900">
+
+Visualisation of the building block architecture.
+
+- Foundation: Catalogues with Interoperable API's and Data sharing under conditions.
+- Visualisation: Find and bind, export and import scenes. Visualise results for user interaction.
+- Data: Different dataformats, storage solutions and services to provide data.
+- (Data) processing: Calculation modules that are interoperable and orchestration of models.
 
 
 ---

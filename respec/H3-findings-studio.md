@@ -69,17 +69,7 @@ By splitting the system in different building blocks (which are based on standar
 
 __Best practices__
 
-- The architecture we promote is composed of different building blocks:
-    - Data
-    - Processing
-    - Visualisation
-    - Foundation
-
-<img src="./respec/media/Architectuur driehoek EngelsGeen achtergrond.png" alt="Visualisation of the building block architecture." width="900">
-
-Visualisation of the building block architecture.
-
-Adopting an architecture that distinguishes these different components ensures different organisations use similar boundaries between components. This enables interoperability and understanding between different organisations, because each organisation works from a similar blueprint.
+Adopting an architecture that distinguishes similar boundaries between components enables interoperability and understanding between different organisations, because each organisation works from a similar blueprint.
 
 __Lessons Learned__
 
