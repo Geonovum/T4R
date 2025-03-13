@@ -60,9 +60,9 @@ __Best practices__
 
 - Driven by and from use-cases.
 
-    We find a use-case approach a very valuable method to make sure technical solutions are actually driven by business value.
+    We find a use-case approach a very valuable method to make sure technical solutions are actually providing value to the organisation.
 
-    Even from a technical framework viewpoint, a socio-technical approach should be expected. Even when a particular solution is driven from a very technical viewpoint, it is still relevant to describe the business value of such a technical component. For example, implementing 'row level access control' in the datalake might be a very technical building block, it still is important to describe this feature in terms of business value.
+    Even from a technical framework viewpoint, a socio-technical approach should be expected. When a particular solution is driven from a very technical viewpoint, it is still relevant to describe the value to the organisation of such a technical component. For example, implementing 'row level access control' in the datalake might be a very technical building block, it still is important to describe this feature in terms of value to the organisation.
 
 - Focus on Interfaces
 
