@@ -56,7 +56,7 @@ __Best practices__
 
 Use OGC API standards to facilitate interoperability
 
-- OGC API Feature, Tyles, Maps
+- OGC API Feature, Tiles, Maps
 - OGC API Processes
 
 __Lessons Learned__
