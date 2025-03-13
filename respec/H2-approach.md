@@ -7,6 +7,10 @@ This report is building from existing work. Most notable the 'Policy processes a
 Based on the knowledge and insights from this earlier work we propose an initial structure with relevant questions. 
 This initial framework is then discussed with the various stakeholders in workshops. Feedback is incorporated in the final result.
 
+-- synopsis van Beleid en digitale tweelingen
+-> modulariteit
+-> de 'driehoek'
+
 ## Timeline of activities 
 
 - jan: initial scoping.
@@ -42,7 +46,8 @@ The Arena is the place of implementation and upscaling. This is where stakeholde
 ### THE IMPORTANCE OF CRITICAL QUESTIONS
 
 The framework aims to bring together different stakeholders as to maximize the viewpoints to be addressed. 
-Explicitly bringing together stakeholders with a different level of maturity on the relevant subject helps to gain insight into which questions proved to be quintessential, and which questions proved to be trivial.
+Explicitly bringing together stakeholders who are further along the exploration path of the adoption of LDT's with organisations who are starting this journey helps gain insight into which questions prove to be quintessential, and which questions prove to be trivial.
+
 
 ### THE IMPORTANCE OF LESSONS LEARNED
 
@@ -50,7 +55,3 @@ The framework also aims to address 'lessons learned' from early adopters, so org
 
 Following from the critical questions some best practices and lessons learned are also documented in the following chapter.
 
-### Maturity levels
-
-It is also important to note that an LDT solution can grow in maturity.
-While an initial solution can be small and limited in scope and functionality, it might grow over time to a more mature system.
