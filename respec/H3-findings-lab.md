@@ -52,6 +52,10 @@ __Best practices__
 
 - The dutch government implements a 'comply or explain' policy for certain standards (Pas toe of Leg Uit). This approach facilitates the adoption of certain standards to improve interoperability and compliance. Besides the 'comply or explain' policy, there is also a 'recommended' list of standards.
 
+__Lessons Learned__
+
+- Some studies, like the [Espresso project](https://link.springer.com/chapter/10.1007/978-3-031-81451-8_12#Fn5) report that promoting common meta-data structures in addition to interoperable open interfaces lower entry barriers to adoption.
+
 ### How do we make sure our solution is re-usable?
 
 Within the Lab situation, initial solutions can be built with a 'throw away' mindset. However, even an initial proof-of-concecpt, throw-away-later component, should demonstrate bussiness value in such a way that the lessons learned from an initial solution can de implemented in a more mature fashion down the road.
