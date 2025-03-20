@@ -62,7 +62,7 @@ A great strength of a Digital Twin is the experience aspect. These experiences g
 
 __Best practices__
 
-- Understand your stakeholder needs. The experience needs to be useful for the target audience.
+- Understand your stakeholder needs. The experience needs to be useful for the target audience. Be mindful that for experienced users it might be obvious how to pan and zoom in a map or that there is a right-mouseclick context menu to interact with an application, but that functionalities might not always be obvious to end-users. We experience a big gap between policy makers and 'tech people' and the only way to bridge that gap is to pay specific attention to it.
 
 ### How do we manage the complexity of a solution and make sure we can 'mix and match' different building blocks?
 
