@@ -1,4 +1,4 @@
-## Studio questions
+## Studio situations
 
 The studio situation focusses on the capabilities of a Digital Twin. Which building blocks do we need to define.
 

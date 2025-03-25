@@ -1,4 +1,4 @@
-## Agora questions
+## Agora situations
 
 The Agora situation is focussing on the implementation and deployment of LDT's in production. Focussing on wider use, stability, trustworhyness etc.
 

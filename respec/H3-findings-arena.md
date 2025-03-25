@@ -1,4 +1,4 @@
-## Arena questions
+## Arena situations
 
 The Arena situation is all about the questions regarding the actual implementation of capabilities in applications and processes.
 

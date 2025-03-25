@@ -1,4 +1,4 @@
-## Lab questions
+## Lab situations
 
 The lab situation starts with the basic, fundamental questions. Why do I want a LDT and to which guardrails and principles should the LDT adhere?
 
