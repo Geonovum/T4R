@@ -50,7 +50,7 @@ __Best practices__
 
 - There is a clear difference between Open Standards, Open Licenses and Open Source. Adhering to Open Standards makes sure systems are interoperable. Open Licenses and Open Source are not technically necessary to enable interoperability, but might provide other benefits to the envisioned solution.
 
-- The dutch government implements a 'comply or explain' policy for certain standards (Pas toe of Leg Uit). This approach facilitates the adoption of certain standards to improve interoperability and compliance. Besides the 'comply or explain' policy, there is also a 'recommended' list of standards.
+- The dutch government implements a 'comply or explain' policy for certain standards [(Pas toe of Leg Uit lijst)](https://www.forumstandaardisatie.nl/open-standaarden/verplicht). This approach facilitates the adoption of certain standards to improve interoperability and compliance. Besides the 'comply or explain' policy, there is also a ['recommended' list of standards](https://www.forumstandaardisatie.nl/open-standaarden/aanbevolen). 
 
 __Lessons Learned__
 
