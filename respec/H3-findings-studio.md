@@ -54,7 +54,7 @@ A Digital Twin stands (or falls) with the accurate representation (according to 
 __Best practices__
 
 - Reach out to policy makers, make sure the results from a DT a relateable to the policies they are supposed to make understandable.
-- Put extra effort in the understandibility of the results, use UX (User eXperience) specialists to make sure the system conveys the intended message.
+- Put extra effort in the understandibility of the results, use UX (User eXperience) specialists to make sure the system conveys the intended message. While design of a UX is out of scope for a technical framework, it is important to note that the technical stack needs the ability to be adapted to an appropriate User Interface for the intended audience. 
 
 ### How do we communicate our insights to our stakeholders?
 
