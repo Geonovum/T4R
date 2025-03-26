@@ -76,8 +76,8 @@ __Lessons Learned__
 
 - Critical succesfactors comprise of concrete, understandable building blocks. By adopting an agile mindset a roadmap can be realized in smaller steps which deliver value in their own rights.
 
-- An area that needs further research revolves around quantifiable key performance indicators that are comparable accross different organisations. 
-
-What we mean by this is the way a policy guideline is 'digitized' in a way that you can run a standardized analysis for the question. An example is the implementation of the '3-30-300 rule', this is a rule about the amount of green in the city. 3-30-300 stands for: every citizen should be able to see 3 trees, 30% of the area should be shaded and there should be a (small) park within 300 meters. Which datasets do we use for this analysis. How do we calculate the sightlines, how do we calculate the shadow percentages.
+- The ability to 'add-up' quantifiable key performance indicators over multiple areas or oraganisations is something that is not widely available yet. If you do have this capability developed from a policy making perspective, it also needs to translate into the technical framework. The success of interoperable system is often dependent on details in the implementation, like using the same units of measure or coordinate system.
+ 
+    What we mean by this is the way a policy guideline is 'digitized' in a way that you can run a standardized analysis for the question. An example is the implementation of the '3-30-300 rule', this is a rule about the amount of green in the city. 3-30-300 stands for: every citizen should be able to see 3 trees, 30% of the area should be shaded and there should be a (small) park within 300 meters. Which datasets do we use for this analysis. How do we calculate the sightlines, how do we calculate the shadow percentages.
 
 ---
