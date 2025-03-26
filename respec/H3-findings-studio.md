@@ -26,14 +26,14 @@ __Best practices__
 
 Some Digital Twins are able to process (measurement) data in real time, monitor (to see whether policy also has the desired effect in the policy cycle), and optionally respond to changes. Measurements are kept so that they can be used to make statements about a series from the past or, if possible, trends in indicators can be seen.
 
-The reproducibility of the circumstances in which a policy decision is made, through a Digital Twin, is very important:
+The capability to reproduce the circumstances in which a policy decision is made, through a Digital Twin, is very important:
 
 1. In a rule of law, decisions are taken on the basis of a legal framework and linked indicators and 
 2. The Digital Twin is really seen as a policy tool that can be trusted and helps in efficiency
 
 __Best practices__
 
-- Well defined, clearly scoped interfaces that take reproducability into account help with the interoperability between components.
+- Well defined, clearly scoped interfaces help with the interoperability between components. Specifically when more complex capabilities like the ability to reproduce circumstances come into play, well scoped interfaces are important.
 
     So for example if timetravel is a requirement, this needs to be designed into the datastructure, the controls in the visualisation as well as in the interface between data and visualisation.
 
