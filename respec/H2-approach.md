@@ -2,14 +2,15 @@
 
 ## Scope and approach 
 
-This report is building from existing work. Most notable the 'Policy processes and building blocks for Digital Twins' [[NLDT_PP_BB]] report.
+This report is building from existing work.
 
 Based on the knowledge and insights from this earlier work we propose an initial structure with relevant questions. 
-This initial framework is then discussed with the various stakeholders in workshops. Feedback is incorporated in the final result.
 
 1. Foundation, Data, Visualization, Processes - this is an evolution of a pattern that was raised in the [DUET](https://www.digitalurbantwins.com/) project and proved to be effective for both technical use and organisational use. The evolutive part is the explicit addition of the Foundation element (in DUET this was implicit) and that defines the elements that are needed to bring the other 3 in the same reference frame. These include IAM, Catalogus, Metadata, etc.
 
 2. The Policy and Digital Twins [[NLDT_PP_BB]] study indicates that the relationship between Policy and Digital Twins is to be found between Policy steps (Plan Do Act Check - [PDCA](https://en.wikipedia.org/wiki/PDCA#:~:text=PDCA%20or%20plan%E2%80%93do%E2%80%93check,or%20the%20control%20circle%2Fcycle.)) and Capabilities (aka Building Block) of the Digital Twin. Each Policy Step requires its own unique set of Capabilities depending on the Use Case. This means that for each policy step a unique Digital Twin is composed of Building Blocks. To be interoperable, every building blocks defines its own set of standards or best practices.
+
+This initial framework is then discussed with the various stakeholders in workshops. Feedback is incorporated in the final result.
 
 ## Timeline of activities 
 
