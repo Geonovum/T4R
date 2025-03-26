@@ -23,8 +23,9 @@ __Best practices__
     - Scale-up means adding more resource to a single deployment
     - Scale-out means the ability to 'duplicate' the solution to parallel deployments.
 
-### Do I need tutorial systems like disposable environments to educate my users?
+### What type of technical framework do I need to address the training and education requirements?
 
+This question has a strong connection to the other frameworks in the project. Make sure that requirements from the training and education can be met by the technical systems.
 Do I have a centralized system, what does my application environment and management thereof look like?
 
 This again depends a lot on the type of IT Environment, as well as the HR department. What type of learning enviroment does the organisation typically provide for users.
