@@ -192,3 +192,17 @@ visualisatie plaatje, actuele versie gebruiken
 maturity level
 starter kit
 
+
+---
+
+__Best Practice__
+
+De toepassing van een Digitale Tweeling in de fysieke leefomgeving kan zeer uitlopend zijn. Om enig houvast te geven in de verschillende soorten toepassingen hanteren we de volgende type niveaus van automatisering:
+
+|Niveau |	Toelichting|
+|---|---|
+|Beschrijvend |	Verspreidde, statische data in systemen zonder integratie, communicatie of automatisering.| 
+|Diagnostisch |	Operationele data en sensordata. Dashboard met operationele inzichten.|
+|Voorspellend |	Contextuele data, machine learning, gedeeltelijke automatisering, verbonden data en systemen.|
+|Voorschrijvend |	Real-time data uit geïntegreerde systemen, situational awareness, aanbevelingen.|
+|Autonoom |	Continue intelligentie voor besluitvorming, adaptieve en generatieve AI, zelfverzorgend.|

@@ -36,14 +36,14 @@ __Lessons Learned__
 
 ### What type of Service Level Agreements (SLA's) do I have internally and externally? 
 
-What type of availability is actually necessary, what about backup/restore.
+What type of availability is actually necessary, what about backup/restore?
 
 __Lessons Learned__
 
 - Cloud environments are typically 'high-available', but do pay attention to the 'shared responsibility' model most cloud providers adopt. Make sure you understand what falls under the responsibility of the Cloud provider and which responsibilities you have yourself.
 - Work with frameworks like [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) or [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) to evaluate and benchmark your solutions.
 
-### Do I have the rigt security frameworks in place?
+### Do I have the right security frameworks in place?
 
 Both in terms of GDPR (privacy) and NIS2 (cybersecurity)
 

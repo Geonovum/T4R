@@ -1,6 +1,6 @@
 ## Studio situations
 
-The studio situation focusses on the capabilities of a Digital Twin. Which building blocks do we need to define.
+The studio situation focusses on the capabilities of a Digital Twin. Which building blocks do we need to define?    
 
 <img src="./respec/media/capabilities.png" alt="Main capabilities mapped to the Digital Twin Capabilities Periodic Table" width="900">
 
@@ -49,7 +49,7 @@ __Best practices__
 
 ### Which capabilities do we need to make sure we can trust the insights we get from our data sources?
 
-A Digital Twin stands (or falls) with the accurate representation (according to agreements and rules) of reality. All data and information that feed the Digital Twins have been tested against agreed quality requirements. Errors cannot be avoided, and user expectations are set accordingly. Trust is also gained through formal agreements and frameworks. For example, the user must make himself known in the system (Identity & Access Management), is logged in and APIs are managed (via gateway functionality). Confidential data is exchanged by means of dataspace standards, where policy and data-use agreements are in place before data exchange.
+A Digital Twin stands (or falls) with the accurate representation (according to agreements and rules) of reality. All data and information that feed the Digital Twins should have been tested against agreed quality requirements. Errors cannot be avoided, and user expectations are set accordingly. Trust is also gained through formal agreements and frameworks. For example, the user must make himself known in the system (Identity & Access Management), is logged in and APIs are managed (via gateway functionality). Confidential data is exchanged by means of dataspace standards, where policy and data-use agreements are in place before data exchange.
 
 __Best practices__
 
@@ -63,6 +63,7 @@ A great strength of a Digital Twin is the experience aspect. These experiences g
 __Best practices__
 
 - Understand your stakeholder needs. The experience needs to be useful for the target audience. Be mindful that for experienced users it might be obvious how to pan and zoom in a map or that there is a right-mouseclick context menu to interact with an application, but that functionalities might not always be obvious to end-users. We experience a big gap between policy makers and 'tech people' and the only way to bridge that gap is to pay specific attention to it.
+- Pay attention to accessibility of your solution. While sometimes challenging in mapviewers, following WCAG (Web Content Accessibility Guidelines) is a best practice and in some cases mandatory.
 
 ### How do we manage the complexity of a solution and make sure we can 'mix and match' different building blocks?
 
@@ -70,7 +71,7 @@ By splitting the system in different building blocks (which are based on standar
 
 __Best practices__
 
-Adopting an architecture that distinguishes similar boundaries between components enables interoperability and understanding between different organisations, because each organisation works from a similar blueprint.
+Adopting an architecture that distinguishes similar boundaries between components enables interoperability and understanding between different organisations, or between departments within organisations, because a similar blueprint is used.
 
 __Lessons Learned__
 
