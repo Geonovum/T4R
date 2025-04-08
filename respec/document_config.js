@@ -25,7 +25,7 @@ var documentConfig =
   title: "Technical Framework for Local Digital Twins - Twins4Resilience project",
   shortName: "T4R-Technical-Framework",
   pubDomain: "t4r-technical-framework",
-  specStatus: "wv",
+  specStatus: "cv",
   specType: "hr",
   license: "cc-by",
 //  latestVersion: [
