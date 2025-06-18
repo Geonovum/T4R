@@ -114,6 +114,8 @@ In the following picture four basic 'building blocks' are visualized. The buildi
 
 <img src="./respec/media/Architectuur driehoek EngelsGeen achtergrond.png" alt="Visualisation of the building block architecture." width="900">
 
+*Figure 3: Visualization of the building block architecture. (Source: [[NLDT_PP_BB]])*
+
 *This architecture builds on work from [[LDT]] and [[Decide_Better]]. See those publications for additional information.*
 
 Visualisation of the building block architecture.

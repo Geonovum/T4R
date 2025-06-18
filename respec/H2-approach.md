@@ -56,6 +56,10 @@ Anyone embarking on an innovative mission such as a DT initiative for decision s
 
 Each critical question is then answered to help those having to make decisions on the DT development. __Answers may contain best practices and negative lessons learnt by project partners and/or organizations outside the T4R consortium, suggestions/tips, resources, links, some context – where applicable, and available.__ Even when questions are not directly relevant for an organization hosting a DT, they can still be valuable as they help to understand possible DT situations. 
 
+<img src="./respec/media/lsaa_framework.jpg" alt="LSAA Framework" width="900">
+
+*Figure 2: How Framework findings are presented in Chapter 3: per DT situation, critical questions and answers  from each Framework domain.*
+
 Based on the above considerations, the below general template was developed for all four Frameworks to present their findings in Chapter 3. The template was agreed in T4R Project Management Team of 27 January 2025. 
 
 ## Architectural viewpoints and the LSAA model

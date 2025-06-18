@@ -32,6 +32,10 @@ The four T4R Frameworks together support the drafting of the Pilot Actions in WP
 
 Therefore, the target group of all four Framework deliverables is the T4R Consortium.  Upon use of the Frameworks in WP2 and WP3, the four Frameworks will be finetuned, updated, and merged in A1.10, resulting in D1.10 T4R Joint Implementation Strategy (Starter Kit), which can also be used to inform and consult stakeholders outside T4R. Towards the end of the T4R project, D1.10 T4R Starter Kit, will be updated and finetuned in A1.11, resulting in D1.11 T4R final Joint Strategy (Implementation Handbook), which is for ‘the world’.  
 
+<img src="./respec/media/T4R_workflow.png" alt="T4R project workflow" width="900">
+
+*Figure 1: T4R project workflow.*
+
 Activity 1.3, like the other three Frameworks, contributes to all four T4R project Results:  
 
 - R.1: Joint strategies and action plans taken up by organizations;  
