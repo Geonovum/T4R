@@ -78,13 +78,11 @@ var documentConfig =
             href: "https://www.geonovum.nl/uploads/documents/Eindrapport%20Advies%20Beleid%20en%20Digital%20Twins%20-%20provincie%20Utrecht%20v1.3d_EN.pdf",
             publisher: "Geonovum"
         },
-
         LDT: {
           title: "Public report on the LDT toolbox detailed specifications requirements – D05.02",
           href: "https://data.europa.eu/doi/10.2759/384198",
           publisher: "European Commission",
           },
-
         NLSBB: {
             title: "NL-SBB - Standaard voor het beschrijven van begrippen",
             href: "https://docs.geostandaarden.nl/nl-sbb/def-st-nl-sbb-20241010/",
@@ -104,6 +102,11 @@ var documentConfig =
             title: "PROV-DM: The PROV Data Model",
             href: "https://www.w3.org/TR/prov-dm/",
             publisher: "W3C"
+        },
+        Decide_Better: {
+          title: "Decide Better - Open and Interoperable Local Digital Twins ",
+            href: "https://link.springer.com/book/10.1007/978-3-031-81451-8 ",
+            publisher: "Springer"
         }
   },
   preProcess: [loadTurtle],
