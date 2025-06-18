@@ -107,6 +107,15 @@ var documentConfig =
           title: "Decide Better - Open and Interoperable Local Digital Twins ",
             href: "https://link.springer.com/book/10.1007/978-3-031-81451-8 ",
             publisher: "Springer"
+        },
+        DCTP: {
+            title: "Digital Twin Consortium. Digital Twin Capabilities Periodic Table. A Digital Twin Consortium User Guide 2022-03-28.",
+            href: "https://www.digitaltwinconsortium.org/wp-content/uploads/sites/3/2022/06/Digital-Twin-Capabilities-Periodic-Table-User-Guide.pdf"
+        },
+        DUET: {
+            title: "L. Raes et al., DUET: A Framework for Building Interoperable and Trusted Digital Twins of Smart Cities",
+            href: "https://ieeexplore.ieee.org/document/9362182",
+            publisher: "IEEE Internet Computing, vol. 26, no. 3, pp. 43-50, 1 May-June 2022"
         }
   },
   preProcess: [loadTurtle],
